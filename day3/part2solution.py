@@ -1,4 +1,5 @@
 import functools
+import string
 
 file = open("input.txt").read().split("\n")
 
